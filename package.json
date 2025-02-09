@@ -1,6 +1,6 @@
 {
   "name": "50fu",
-  "private": false,
+  "private": true,
   "version": "0.0.1",
   "type": "module",
   "homepage": "https://saur4ig.github.io/50fu",
