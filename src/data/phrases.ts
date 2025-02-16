@@ -20,6 +20,16 @@ const phrases: Phrase[] = [
     phrase: "Іди нахуй",
     transcription: "idy nakhuy"
   },
+  { 
+    language: "Spanish",
+    phrase: "jódete",
+    transcription: "HOH-deh-teh"
+  },
+  { 
+    language: "Italian",
+    phrase: "vaffanculo",
+    transcription: "vah-fan-KOO-lo"
+  }
 ];
 
 export default phrases;
