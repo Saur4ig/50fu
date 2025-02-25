@@ -29,7 +29,22 @@ const phrases: Phrase[] = [
     language: "Italian",
     phrase: "vaffanculo",
     transcription: "vah-fan-KOO-lo"
-  }
+  },
+  { 
+    language: "Polish",
+    phrase: "Spierdalaj",
+    transcription: "spyerdah-lai"
+  },
+  { 
+    language: "Finnish",
+    phrase: "Haista vittu",
+    transcription: "hays-ta vit-too"
+  },
+  { 
+    language: "Turkish",
+    phrase: "Siktir git",
+    transcription: "sik-tir git"
+  },
 ];
 
 export default phrases;
